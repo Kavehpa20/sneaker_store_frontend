@@ -5,3 +5,5 @@ using this Tools to create this App:
 2- The App using  VITE v5.0.11 + tailwindcss v3.4.1 + prettier
 
 This App Designed and Created By : کاوه پژوهش 
+
+Using npm install  after clone to install node_modules.
